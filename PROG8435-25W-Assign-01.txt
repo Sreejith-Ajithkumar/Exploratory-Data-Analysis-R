@@ -1,0 +1,72 @@
+﻿Name,Language,Type,Region ,City,G6_EQAO,G10_OSSLT,G10_Cr_Acc,G10_Cr_Acc_P,G11_Cr_Acc,G11_Cr_Acc_P,G4_Grad_Rate,G4_Grad_Rate_P,G5_Grad_Rate,G5_Grad_Rate_P
+Algoma DSB,English,Public,North Region,Sault Ste Marie,0.78,0.72,0.69,-0.02,0.71,-0.08,0.719,0.002,0.768,-0.026
+Algonquin and Lakeshore CDSB,English,Roman Catholic,East Region,Napanee,0.78,0.86,0.84,0.00,0.87,-0.03,0.895,0.015,0.909,-0.016
+Avon Maitland DSB,English,Public,West Region,Seaforth,0.84,0.81,0.81,0.03,0.78,-0.01,0.802,-0.008,0.838,-0.022
+Bluewater DSB,English,Public,West Region,Chesley,0.76,0.75,0.67,-0.01,0.71,-0.01,0.715,0.004,0.815,-0.007
+Brant Haldimand Norfolk CDSB,English,Roman Catholic,West Region,Brantford,0.85,0.85,0.73,-0.08,0.81,-0.01,0.818,0.021,0.901,0.046
+Bruce-Grey CDSB,English,Roman Catholic,West Region,Hanover,0.80,0.82,0.82,0.01,0.85,0.05,0.874,0.006,0.927,0.040
+CDSB of Eastern Ontario,English,Roman Catholic,East Region,Kemptville,0.85,0.84,0.80,-0.09,0.84,-0.06,0.861,-0.021,0.917,0.003
+CÉP de l'Est de l'Ontario,French,Public,East Region,Ottawa,0.97,0.93,0.78,-0.01,0.84,-0.06,0.895,-0.021,0.910,-0.013
+Conseil scolaire catholique Providence,French,Roman Catholic,West Region,Windsor,0.97,0.85,0.91,-0.04,0.92,-0.05,0.963,0.003,0.958,-0.021
+CS catholique MonAvenir,French,Roman Catholic,Toronto Region,Toronto,0.98,0.95,0.87,0.02,0.91,-0.02,0.922,-0.017,0.949,-0.009
+CS public du Grand Nord de l'Ontario,French,Public,North Region,Sudbury,0.98,0.83,0.86,0.01,0.86,-0.03,0.831,-0.030,0.883,-0.033
+CS public du Nord-Est de l'Ontario,French,Public,North Region,North Bay,0.97,0.72,0.73,-0.04,0.82,0.06,0.805,-0.009,0.928,0.059
+CS Viamonde,French,Public,Toronto Region,North York,0.99,0.96,0.91,-0.01,0.94,-0.01,0.927,0.008,0.936,0.015
+CSDC de l'Est ontarien,French,Roman Catholic,East Region,L'Orignal,0.96,0.94,0.87,-0.02,0.93,0.01,0.944,0.042,0.941,0.002
+CSDC des Aurores boréales,French,Roman Catholic,North Region,Thunder Bay,0.89,0.93,0.78,-0.05,0.90,0.00,0.875,-0.039,0.943,0.014
+CSDC des Grandes Rivières,French,Roman Catholic,North Region,Timmins,0.91,0.81,0.87,-0.02,0.86,-0.05,0.853,-0.014,0.920,-0.011
+CSDC du Centre-Est de l'Ontario,French,Roman Catholic,East Region,Ottawa,0.98,0.94,0.86,-0.03,0.91,-0.03,0.932,-0.007,0.949,0.005
+CSDC du Nouvel-Ontario,French,Roman Catholic,North Region,Sudbury,0.97,0.86,0.93,0.00,0.95,-0.04,0.915,-0.031,0.963,0.004
+CSDC Franco-Nord,French,Roman Catholic,North Region,North Bay,0.93,0.85,0.90,0.01,0.92,-0.01,0.894,-0.021,0.948,0.001
+DSB Niagara,English,Public,West Region,St Catharines,0.91,0.86,0.76,-0.01,0.78,-0.03,0.813,0.027,0.871,0.009
+DSB Ontario North East,English,Public,North Region,Timmins,0.76,0.72,0.54,-0.08,0.65,0.06,0.588,-0.007,0.741,0.023
+Dufferin-Peel CDSB,English,Roman Catholic,Central Region,Mississauga,0.87,0.86,0.86,-0.01,0.89,-0.01,0.903,-0.006,0.931,-0.008
+Durham CDSB,English,Roman Catholic,East Region,Oshawa,0.87,0.87,0.83,0.01,0.83,0.04,0.903,0.005,0.937,0.006
+Durham DSB,English,Public,East Region,Whitby,0.85,0.85,0.79,0.02,0.84,0.03,0.853,0.005,0.909,0.009
+Grand Erie DSB,English,Public,West Region,Brantford,0.77,0.76,0.68,0.01,0.68,0.03,0.685,0.030,0.800,0.039
+Greater Essex County DSB,English,Public,West Region,Windsor,0.84,0.79,0.74,-0.06,0.79,-0.02,0.793,0.015,0.866,-0.001
+Halton CDSB,English,Roman Catholic,Central Region,Burlington,0.88,0.90,0.81,-0.07,0.87,-0.06,0.926,0.012,0.948,0.009
+Halton DSB,English,Public,Central Region,Burlington,0.90,0.92,0.89,0.00,0.90,0.01,0.889,-0.001,0.936,-0.004
+Hamilton-Wentworth CDSB,English,Roman Catholic,West Region,Hamilton,0.85,0.77,0.76,0.02,0.81,0.00,0.816,-0.015,0.896,0.006
+Hamilton-Wentworth DSB,English,Public,West Region,Hamilton,0.75,0.77,0.69,0.06,0.71,0.01,0.736,0.016,0.835,0.019
+Hastings & Prince Edward DSB,English,Public,East Region,Belleville,0.79,0.75,0.64,-0.03,0.75,0.02,0.770,0.036,0.815,0.052
+Huron Perth CDSB,English,Roman Catholic,West Region,Dublin,0.81,0.87,0.88,0.00,0.90,0.01,0.887,0.022,0.926,-0.011
+Huron-Superior CDSB,English,Roman Catholic,North Region,Sault Ste Marie,0.76,0.80,0.73,-0.12,0.76,-0.09,0.809,-0.019,0.880,0.035
+Kawartha Pine Ridge DSB,English,Public,East Region,Peterborough,0.81,0.82,0.77,0.01,0.82,0.00,0.838,0.037,0.868,0.002
+Keewatin-Patricia DSB,English,Public,North Region,Kenora,0.76,0.71,0.60,-0.07,0.70,-0.02,0.626,0.015,0.722,-0.018
+Kenora CDSB,English,Roman Catholic,North Region,Kenora,0.75,0.80,0.72,-0.09,0.72,-0.04,0.756,-0.030,0.750,-0.029
+Lakehead DSB,English,Public,North Region,Thunder Bay,0.84,0.82,0.66,-0.09,0.72,-0.02,0.700,0.015,0.749,-0.001
+Lambton Kent DSB,English,Public,West Region,Sarnia,0.78,0.78,0.70,0.01,0.68,-0.06,0.694,-0.055,0.805,0.009
+Limestone DSB,English,Public,East Region,Kingston,0.77,0.79,0.75,-0.05,0.74,-0.07,0.838,0.008,0.876,0.012
+London District Catholic School Board,English,Roman Catholic,West Region,London,0.85,0.84,0.83,0.10,0.87,-0.02,0.878,-0.012,0.909,-0.010
+Near North DSB,English,Public,North Region,North Bay,0.77,0.79,0.65,-0.15,0.70,-0.05,0.722,-0.005,0.835,0.010
+Niagara CDSB,English,Roman Catholic,West Region,Welland,0.85,0.86,0.86,-0.02,0.90,-0.01,0.892,-0.017,0.928,0.011
+Nipissing-Parry Sound CDSB,English,Roman Catholic,North Region,North Bay,0.80,0.85,0.77,0.05,0.76,0.00,0.716,-0.043,0.780,-0.028
+Northeastern CDSB,English,Roman Catholic,North Region,Timmins,0.73,0.91,0.85,-0.03,0.77,0.01,0.778,0.066,0.833,0.007
+Ottawa CSB,English,Roman Catholic,East Region,Nepean,0.89,0.88,0.83,-0.01,0.89,-0.02,0.904,0.005,0.937,0.013
+Ottawa-Carleton DSB,English,Public,East Region,Nepean,0.84,0.89,0.84,-0.01,0.86,0.01,0.861,-0.001,0.909,0.004
+Peel DSB,English,Public,Central Region,Mississauga,0.83,0.85,0.80,0.00,0.83,-0.01,0.870,-0.008,0.921,0.006
+Peterborough Victoria Northumberland and Clarington CDSB,English,Roman Catholic,East Region,Peterborough,0.80,0.82,0.86,0.02,0.91,0.03,0.897,0.016,0.933,0.002
+Rainbow DSB,English,Public,North Region,Sudbury,0.84,0.77,0.64,-0.08,0.72,-0.02,0.681,-0.016,0.769,0.009
+Rainy River DSB,English,Public,North Region,Fort Frances,0.76,0.70,0.61,-0.09,0.69,-0.06,0.748,0.043,0.755,0.025
+Renfrew County CDSB,English,Roman Catholic,East Region,Pembroke,0.89,0.84,0.81,0.07,0.76,-0.11,0.758,-0.081,0.870,-0.021
+Renfrew County DSB,English,Public,East Region,Pembroke,0.78,0.83,0.78,-0.03,0.78,0.00,0.780,-0.002,0.886,0.029
+Renfrew County ESB,English,Public,East Region, Pembroke, NA,0.38,NA,0.30,NA,NA,0.870,0.004,NA,0.019
+Simcoe County DSB,English,Public,Central Region,Midhurst,0.79,0.84,0.73,-0.04,0.78,-0.02,0.823,0.020,0.858,-0.004
+Simcoe Muskoka CDSB,English,Roman Catholic,Central Region,Barrie,0.81,0.82,0.80,-0.03,0.83,-0.01,0.868,-0.001,0.916,-0.010
+St Clair CDSB,English,Roman Catholic,West Region,Wallaceburg,0.85,0.88,0.79,-0.03,0.85,-0.01,0.823,-0.006,0.909,0.008
+Sudbury CDSB,English,Roman Catholic,North Region,Sudbury,0.80,0.80,0.73,-0.06,0.81,-0.06,0.762,-0.047,0.856,0.009
+Superior-Greenstone DSB,English,Public,North Region,Marathon,0.74,0.59,0.49,-0.14,0.58,-0.15,0.643,0.000,0.686,-0.058
+Thames Valley DSB,English,Public,West Region,London,0.79,0.77,0.72,-0.02,0.75,-0.01,0.745,0.002,0.837,0.005
+Thunder Bay CDSB,English,Roman Catholic,North Region,Thunder Bay,0.84,0.81,0.73,-0.09,0.85,0.01,0.780,0.002,0.844,0.003
+Toronto CDSB,English,Roman Catholic,Toronto Region,Toronto,0.84,0.84,0.85,-0.01,0.87,-0.01,0.881,0.004,0.914,0.005
+Toronto DSB,English,Public,Toronto Region,Toronto,0.83,0.85,0.78,0.01,0.81,0.01,0.809,0.012,0.868,0.009
+Trillium Lakelands DSB,English,Public,Central Region,Lindsay,0.83,0.84,0.75,-0.02,0.78,-0.03,0.793,-0.025,0.866,0.024
+Upper Canada DSB,English,Public,East Region,Brockville,0.78,0.77,0.72,-0.04,0.76,-0.02,0.861,0.042,0.892,0.023
+Upper Grand DSB,English,Public,West Region,Guelph,0.86,0.88,0.82,0.00,0.83,0.00,0.819,-0.004,0.894,0.018
+Waterloo CDSB,English,Roman Catholic,West Region,Kitchener,0.84,0.83,0.80,-0.01,0.83,0.00,0.817,0.028,0.872,-0.010
+Waterloo Region DSB,English,Public,West Region,Kitchener,0.84,0.85,0.82,0.00,0.81,0.00,0.796,0.018,0.869,0.010
+Wellington CDSB,English,Roman Catholic,West Region,Guelph,0.88,0.85,0.84,0.11,0.86,0.02,0.862,-0.025,0.944,0.011
+Windsor-Essex CDSB,English,Roman Catholic,West Region,Windsor,0.90,0.91,0.81,-0.02,0.86,0.01,0.894,-0.018,0.932,0.002
+York CDSB,English,Roman Catholic,Central Region,Aurora,0.91,0.90,0.91,0.01,0.94,0.00,0.960,0.007,0.974,-0.001
+York Region DSB,English,Public,Central Region,Aurora,0.88,0.93,0.87,0.00,0.90,0.00,0.903,0.002,0.945,-0.002
